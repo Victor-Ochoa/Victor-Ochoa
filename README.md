@@ -20,11 +20,21 @@ I have always focused my studies on DotNet technologies and Backend. Currently I
 
 I work with:
 - C#
-- .Net Framework and .Net Core
+- Code
+  - Object-Oriented Programming
+    - DDD
+    - Design Patterns
+    - Architecture and code design
+    - Clean Code Principles
+    - Microservices
+    - CQRS
+  - Functional Programming (with F#)
+- .Net Framework, .Net Core and .NET Standard (forward to .Net 5)
   - Web Api
     - Swegger
     - REST
     - GraphQL
+    - gRPC
     - Identity
     - JWT
     - SignalR
@@ -56,8 +66,6 @@ I work with:
     - GitHub Actions
   - GitLab
 - Azure
-- Code
-  - 
 
 
 ## Graduations and Courses
