@@ -56,6 +56,8 @@ I work with:
   - Sql Server
   - PostgreSQL
   - Oracle
+  - Mongo
+  - RavenDB
 - Docker
 - Git
   - Azure Devops
