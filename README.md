@@ -14,6 +14,26 @@ https://github.com/Victor-Ochoa
 
 ## Focus of my career
 
+I have always focused my studies on DotNet technologies and Backend. Currently I am also interested in Mobile with Xamarin.
+
+I work with:
+- C#
+- .Net Framework and .Net Core
+  - Web Api
+    - Swegger
+    - REST
+    - GraphQL
+    - Identity
+  - Brazor
+  - Xamarin
+    - Prism
+    - LiteDB
+    - SQLite
+  - SignalR
+- DataBase
+  - Sql Server
+  - PostgreSQL
+  - Oracle
 
 
 ## Graduations and Courses
