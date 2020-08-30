@@ -8,6 +8,8 @@ https://github.com/Victor-Ochoa
 
 +55 (53) 98416-3953
 
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-ochoa&show_icons=true)
+
 ## About me
 
 
