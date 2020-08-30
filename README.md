@@ -12,7 +12,7 @@ https://github.com/Victor-Ochoa
 
 ## About me
 
-
+I am a young developer who discovered what I love to do in life after a simple "Hello world!" Father of Helena and Nerd by nature I like to spend time playing, reading and especially with my little princess. I am addicted to learning and I love solving problems and creating solutions.
 
 ## Focus of my career
 
