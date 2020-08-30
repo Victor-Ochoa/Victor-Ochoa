@@ -25,6 +25,6 @@ In the first 3 months, I worked with the migration of a system written in VB6 to
 
 ### Freelancer
 
-**January, 2017 - August, 2017**
+**December, 2016 - August, 2017**
 
 I developed a system for an environmental consulting office using C # Windows Forms.
