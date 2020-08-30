@@ -27,18 +27,19 @@ I am a self-taught developer Focused on Microsoft technologies
 
 #### Sitecore Courses
 
-**4 courses from August to October 2019**
+4 courses from August to October 2019
 
 #### Arquitetura de Software .Net (.Net Software Architecture)
 
-**Eduardo Pires - Treinamento e Consultoria - February 2018**
+Eduardo Pires - Treinamento e Consultoria - February 2018
 
 #### JAVA J2SE
 
-**Infoserv Treinamentos - December 2014**
+Infoserv Treinamentos - December 2014
 
 #### Curso Extensivo de C# (Extensive C# Course)
-**UCS - October 2014**
+
+UCS - October 2014
 
 ## Professional experiences and projects
 
