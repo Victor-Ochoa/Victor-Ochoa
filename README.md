@@ -11,19 +11,19 @@ https://github.com/Victor-Ochoa
 
 ### Professional experiences and projects
 
-##### Possible WordWide
+#### Possible WordWide
 
 **September 3, 2018 - Current**
 
 Initially I worked on a backend project for a Quote Calculator and currently work with CRM Sitecore.
 
-##### Cigam Gestor
+#### Cigam Gestor
 
 **September 1, 2017 - August 28, 2018**
 
 In the first 3 months, I worked with the migration of a system written in VB6 to C #. In the next 9 months I worked with the creation of a web portal with .Net MVC backend and a basic JQuery frontend.
 
-##### Freelancer
+#### Freelancer
 
 **January, 2017 - August, 2017**
 
