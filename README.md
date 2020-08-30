@@ -73,7 +73,7 @@ I work with:
 ## Graduations and Courses
 
 ### College
-Twice I started studying at college, but unfortunately I did not progress with my studies, once with the computer science course at UNISINOS and again with the course Analysis and Systems Development at IF in Bento Gonçalves. 
+Twice I started studying at college, but unfortunately, I did not progress with my studies, once with the computer science course at UNISINOS and again with the course Analysis and Systems Development at IF in Bento Gonçalves. 
 
 I am a self-taught developer Focused on Microsoft technologies
 
@@ -101,7 +101,7 @@ UCS - October 2014
 
 **September 3, 2018 - Current**
 
-Initially I worked on a backend project for a Quote Calculator and currently work with CRM Sitecore, WCF and Web API. In theses projects I used SQL Server Database. In the project I'm working on, I'm having the opportunity to work within Azure Devops
+Initially I worked on a backend project for a Quote Calculator and currently work with CRM Sitecore, WCF and Web API. In these  projects I used SQL Server Database. In the project I'm working on, I'm having the opportunity to work within Azure Devops
 
 ### Cigam Gestor
 
@@ -111,6 +111,6 @@ In the first 3 months, I worked with the migration of a system written in VB6 to
 
 ### Freelancer
 
-**December, 2016 - August, 2017**
+**December 2016 - August 2017**
 
 I developed a system for an environmental consulting office using C# Windows Forms.
