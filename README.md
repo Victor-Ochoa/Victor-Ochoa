@@ -18,15 +18,16 @@ https://github.com/Victor-Ochoa
 
 ## Graduations and Courses
 
-
-
+### College
+Twice I started studying at college, but unfortunately I did not progress with my studies, once with the computer science course at UNISINOS and again with the course Analysis and Systems Development at IF in Bento Gonçalves. 
+I am a self-taught developer Focused on Microsoft technologies
 ## Professional experiences and projects
 
 ### Possible WordWide
 
 **September 3, 2018 - Current**
 
-Initially I worked on a backend project for a Quote Calculator and currently work with CRM Sitecore, WCF and Web API. In theses projects I used SQL Server Database.
+Initially I worked on a backend project for a Quote Calculator and currently work with CRM Sitecore, WCF and Web API. In theses projects I used SQL Server Database. In the project I'm working on, I'm having the opportunity to work within Azure Devops
 
 ### Cigam Gestor
 
