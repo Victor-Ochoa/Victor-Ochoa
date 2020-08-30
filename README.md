@@ -24,16 +24,38 @@ I work with:
     - REST
     - GraphQL
     - Identity
+    - JWT
+    - SignalR
   - Brazor
+  - Asp.Net
+    - Asp.Net MVC
   - Xamarin
+    - MVVM
     - Prism
     - LiteDB
     - SQLite
-  - SignalR
+  - Sitecore
+    - 8.2
+    - 9.3
+  - WPF
+  - Windows Forms
+  - Windows Services
 - DataBase
   - Sql Server
   - PostgreSQL
   - Oracle
+- Docker
+- Git
+  - Azure Devops
+    - Pipelines
+    - Services
+    - Functions
+  - GitHub
+    - GitHub Actions
+  - GitLab
+- Azure
+- Code
+  - 
 
 
 ## Graduations and Courses
