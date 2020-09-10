@@ -11,4 +11,4 @@ Brasil RS Pelotas
 I am a young developer who discovered what I love to do in life after a simple "Hello world!". Father of Helena and Nerd by nature I like to spend time playing, reading and especially with my little princess. I am addicted to learning and I love solving problems and creating solutions.
 
 
-[Facebook](https://www.facebook.com/Victor.MajinBu/) [LinkedIn](https://www.linkedin.com/in/victor-ochoa-da-silva-355b11104/) [CURRICULUM VITAE](https://github.com/Victor-Ochoa/Victor-Ochoa/blob/master/CURRICULUM VITAE.md)
+[Facebook](https://www.facebook.com/Victor.MajinBu/) [LinkedIn](https://www.linkedin.com/in/victor-ochoa-da-silva-355b11104/) [CURRICULUM VITAE](https://github.com/Victor-Ochoa/Victor-Ochoa/blob/master/CURRICULUM_VITAE.md)
