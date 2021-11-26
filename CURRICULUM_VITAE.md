@@ -95,9 +95,15 @@ UCS - October 2014
 
 ## Professional experiences and projects
 
+### LuizaLabs - Magazine Luiza
+
+**May 8, 2021 - Current**
+
+I work as a SRE Senior Developer
+
 ### Possible WordWide
 
-**September 3, 2018 - Current**
+**September 3, 2018 - May 7, 2021**
 
 Initially I worked on a backend project for a Quote Calculator and currently work with CRM Sitecore, WCF and Web API. In these  projects I used SQL Server Database. In the project I'm working on, I'm having the opportunity to work within Azure Devops
 
