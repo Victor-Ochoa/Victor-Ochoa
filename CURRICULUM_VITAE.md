@@ -6,15 +6,17 @@ Brasil RS Pelotas
 
 https://github.com/Victor-Ochoa
 
+https://www.linkedin.com/in/victor-ochoa-da-silva/
+
 +55 (53) 98416-3953
 
 ## About me
 
-I am a young developer who discovered what I love to do in life after a simple "Hello world!" Father of Helena and Nerd by nature I like to spend time playing, reading and especially with my little princess. I am addicted to learning and I love solving problems and creating solutions.
+I am a young developer who discovered what I love to do in life after a simple "Hello world!" Father of two(Helena and Hugo) and Nerd by nature I like to spend time playing, reading and especially with my kids. I am addicted to learning and I love solving problems and creating solutions.
 
 ## Focus of my career
 
-I have always focused my studies on DotNet technologies and Backend. Currently I am also interested in Mobile with Xamarin.
+I have always focused my studies on DotNet technologies and Backend. Currently I am also interested in Mobile with Xamarin/MAUI.
 
 I work with:
 - C#
@@ -26,8 +28,7 @@ I work with:
     - Clean Code Principles
     - Microservices
     - CQRS
-  - Functional Programming (with F#)
-- .Net Framework, .Net Core and .NET Standard (forward to .Net 5)
+- .Net, .Net Framework, .Net Core and .NET Standard
   - Web Api
     - Swegger
     - REST
@@ -39,7 +40,7 @@ I work with:
   - Brazor
   - Asp.Net
     - Asp.Net MVC
-  - Xamarin
+  - Xamarin/MAUI
     - MVVM
     - Prism
     - LiteDB
@@ -50,6 +51,7 @@ I work with:
   - WPF
   - Windows Forms
   - Windows Services
+  - Hangfire
 - DataBase
   - Sql Server
   - PostgreSQL
